@@ -1,12 +1,39 @@
-# React + Vite
+# 🌐 FUTURE_FS_01 — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **React + Tailwind CSS** portfolio website showcasing my projects, skills, and contact form.  
+Deployed using **GitHub Pages**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+🔗 **[View Portfolio](https://kiransai-5c5.github.io/FUTURE_FS_01/)**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+- 🎨 **Responsive UI** — Works perfectly on desktop, tablet, and mobile
+- 📂 **Projects Section** — Showcases selected works with links
+- 🛠 **Skills Section** — Lists my technical stack
+- 📜 **About Section** — Short introduction
+- 📬 **Contact Form** — Fully functional using Formspree API
+- ⚡ **Fast Performance** — Built with Vite and optimized with TailwindCSS
+
+---
+
+## 🛠 Tech Stack
+- **Frontend**: React, Tailwind CSS
+- **Icons**: Lucide React
+- **Build Tool**: Vite
+- **Deployment**: GitHub Pages
+- **Form Handling**: Formspree
+
+
+---
+
+## ⚙️ Installation & Setup
+Clone the repository and install dependencies:
+```bash
+git clone https://github.com/kiransai-5C5/FUTURE_FS_01.git
+cd FUTURE_FS_01
+npm install
+
